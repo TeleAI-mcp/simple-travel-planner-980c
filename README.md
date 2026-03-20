@@ -1,2 +1,3 @@
-# simple-travel-planner-980c
-Automated issue comment bot repository
+# Simple Travel Planner 980C
+
+Automated issue comment bot repository.
